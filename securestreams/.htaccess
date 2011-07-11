@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^track.mp3$ track.php
