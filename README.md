@@ -33,3 +33,8 @@ Two small scripts: one to add a defined number of download codes for a specific
 asset, and one to upload an asset to s3 with the correct content disposition 
 header (attachment) for forcing download instead of in-browser display of media
 content on direct request.
+
+##license##
+All PHP contained in this repository is (c) 2011 CASH Music and licensed under 
+an AGPL license. JavaScript is also (c) 2011 CASH Music, but licensed under a 
+BSD license. For more information or questions write info@cashmusic.org.
